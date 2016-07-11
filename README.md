@@ -12,3 +12,5 @@ npm install
 ```
 
 Then, execute `index.html` in your browser. That's all !
+
+![Screenshot](./screenshot.png)
