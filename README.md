@@ -6,7 +6,7 @@ Reveal.js documentation can be found [here](https://github.com/hakimel/reveal.js
 
 ## Installation
 
-First, run :
+First, run:
 ```
 npm install
 ```
