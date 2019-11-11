@@ -1,0 +1,10 @@
+version: "3.6"
+
+services:
+  node:
+      image: "node:12-alpine"
+      user: node
+      tty: true
+      working_dir: /app
+      volumes:
+        - .:/app
